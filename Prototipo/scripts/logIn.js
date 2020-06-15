@@ -3,3 +3,4 @@ let noAccount = document.querySelector("#noAccount").addEventListener("click", r
 function redirection(){
 document.location.href = "./firstSignUp.html"
 }
+
